@@ -6,7 +6,7 @@ A searchablen list of all federal, state and private universities, polytechnics,
 
 ## Installation
 
-npm install nigerian-institutions
+<code>npm install nigerian-institutions</code>
 
 ## Usage
 
