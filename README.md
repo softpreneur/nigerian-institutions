@@ -10,18 +10,18 @@ A searchablen list of all federal, state and private universities, polytechnics,
 
 ## Usage
 
-var institutions = require('nigerian-institutions');
+<code>var institutions = require('nigerian-institutions');</code>
 
 <br>// To implement realtime or normal search for institutions in Nigeria, it will return array of schools with name and city closest to your search input
 
 ## Example 1
 
-var response = institutions.search('ABU Zaria');   <br>// [{ name: "Ahmadu Bello University, Zaria", city: "Zaria", code: "ABU Zaria" }, { name: "Nuhu Bamalli Polytechnic, Zaria", city: "Zaria", code: "NUBA Zaria"}, .......]
+<code> var response = institutions.search('ABU Zaria'); </code>   <br>// [{ name: "Ahmadu Bello University, Zaria", city: "Zaria", code: "ABU Zaria" }, { name: "Nuhu Bamalli Polytechnic, Zaria", city: "Zaria", code: "NUBA Zaria"}, .......]
 
 
 ## Example 2
 
-var response = institutions.allSchools();   <br>// Return list of all institutions in Nigeria
+<code> var response = institutions.allSchools(); </code>   <br>// Return list of all institutions in Nigeria
 
 ## You can follow me
 <br>Instagram: @motion_wares
