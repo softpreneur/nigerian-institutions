@@ -1,0 +1,34 @@
+{
+  "name": "nigerian-institutions",
+  "version": "1.0.0",
+  "description": "list of all Universities, polytechnics, colleges of education, mono-technics and others in Nigerian",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motionboy/Nigerian-higher-Institutions/tree/master"
+  },
+  "author": "Ibrahim Abdulrahman A <motionboy4@gmail.com> (https://github.com/motionboy)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "fuse.js": "^3.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "\"Nigeria",
+    "Nigeria",
+    "Universities",
+    "Nigerian",
+    "Polytechnics",
+    "Nigerian",
+    "Schools",
+    "Schools\""
+  ]
+}
