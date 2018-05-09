@@ -12,16 +12,16 @@ npm install nigerian-institutions
 
 var institutions = require('nigerian-institutions');
 
-// To implement realtime or normal search for institutions in Nigeria, it will return array of schools with name and city closest to your search input
+<br>// To implement realtime or normal search for institutions in Nigeria, it will return array of schools with name and city closest to your search input
 
 ## Example 1
 
-var response = institutions.search('ABU Zaria');   // [{ name: "Ahmadu Bello University, Zaria", city: "Zaria", code: "ABU Zaria" }, { name: "Nuhu Bamalli Polytechnic, Zaria", city: "Zaria", code: "NUBA Zaria"}, .......]
+var response = institutions.search('ABU Zaria');   <br>// [{ name: "Ahmadu Bello University, Zaria", city: "Zaria", code: "ABU Zaria" }, { name: "Nuhu Bamalli Polytechnic, Zaria", city: "Zaria", code: "NUBA Zaria"}, .......]
 
 
 ## Example 2
 
-var response = institutions.allSchools();   // Return list of all institutions in Nigeria
+var response = institutions.allSchools();   <br>// Return list of all institutions in Nigeria
 
 ## You can follow me
 <br>Instagram: @motion_wares
