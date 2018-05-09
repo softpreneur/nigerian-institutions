@@ -23,6 +23,11 @@ var response = institutions.search('ABU Zaria');   // [{ name: "Ahmadu Bello Uni
 
 var response = institutions.allSchools();   // Return list of all institutions in Nigeria
 
+## You can follow me
+Instagram: @motion_wares
+Twitter: @motionboy4
+Facebook: @ibrahim.motion
+
 ## Contributing
 
 To contribute follow me on github.com/motionboy and fork the repo...
