@@ -1,7 +1,6 @@
 List of Nigerian Institutions 
 =============================
 
-GET https://api.npmjs.org/downloads/point/{period}[/{nigerian-institutions}]
 
 A searchablen list of all federal, state and private universities, polytechnics, colleges of education and monotechnics in Nigeria with city and abbreviation.
 
